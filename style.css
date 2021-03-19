@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://64.media.tumblr.com/4f813ac81466fc48413132dfb0f105cb/tumblr_pmd6e6Ol7y1runoqyo5_r1_540.gifv);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100% ;
+}
+#container{
+    background-color: white;
+    width: 30%;
+    transform: translateX(600px);
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+}
+button{
+    text-align: center;
+    transform: translateX(220px);
+    position: absolute;
+}
